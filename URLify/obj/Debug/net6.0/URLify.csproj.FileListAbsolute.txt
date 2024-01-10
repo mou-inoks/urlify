@@ -1,0 +1,15 @@
+/Users/salim/RiderProjects/URLify/URLify/bin/Debug/net6.0/URLify
+/Users/salim/RiderProjects/URLify/URLify/bin/Debug/net6.0/URLify.deps.json
+/Users/salim/RiderProjects/URLify/URLify/bin/Debug/net6.0/URLify.runtimeconfig.json
+/Users/salim/RiderProjects/URLify/URLify/bin/Debug/net6.0/URLify.dll
+/Users/salim/RiderProjects/URLify/URLify/bin/Debug/net6.0/URLify.pdb
+/Users/salim/RiderProjects/URLify/URLify/obj/Debug/net6.0/URLify.csproj.AssemblyReference.cache
+/Users/salim/RiderProjects/URLify/URLify/obj/Debug/net6.0/URLify.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salim/RiderProjects/URLify/URLify/obj/Debug/net6.0/URLify.AssemblyInfoInputs.cache
+/Users/salim/RiderProjects/URLify/URLify/obj/Debug/net6.0/URLify.AssemblyInfo.cs
+/Users/salim/RiderProjects/URLify/URLify/obj/Debug/net6.0/URLify.csproj.CoreCompileInputs.cache
+/Users/salim/RiderProjects/URLify/URLify/obj/Debug/net6.0/URLify.dll
+/Users/salim/RiderProjects/URLify/URLify/obj/Debug/net6.0/refint/URLify.dll
+/Users/salim/RiderProjects/URLify/URLify/obj/Debug/net6.0/URLify.pdb
+/Users/salim/RiderProjects/URLify/URLify/obj/Debug/net6.0/URLify.genruntimeconfig.cache
+/Users/salim/RiderProjects/URLify/URLify/obj/Debug/net6.0/ref/URLify.dll
