@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "1j/wkj9oo+KE7YqAIo4j47u37mJwtCGoDge6LQZ0LFLuOnqy6mbIetCsf0i7MzTv8kTUZM3c0asiaM9v+2twfQ==",
+  "dgSpecHash": "+vjuioKp8DGZxyfivT3vMBDFg1Qx5vUhw1011V3WWZ6Hy6kpXu31VtsNtu1Opopq+IdakVWc9ECwTqsyL+EdfA==",
   "success": true,
-  "projectFilePath": "/Users/salim/RiderProjects/URLify/URLify/URLify.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/salim/Desktop/Work/urlify/URLify/URLify.csproj",
+  "expectedPackageFiles": [
+    "/Users/salim/.nuget/packages/microsoft.netcore.app.ref/6.0.25/microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/salim/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.25/microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "/Users/salim/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.25/microsoft.netcore.app.host.osx-arm64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
